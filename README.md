@@ -1,4 +1,4 @@
-readme_content =
+
 # 🌞 Smart Solar Tracking and Irrigation System
 
 This project integrates **solar tracking** and **automatic irrigation** using **Arduino Uno boards**.  
